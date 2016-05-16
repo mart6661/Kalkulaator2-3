@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulaatori DB</string>
+    <string name="action_show_operations">Tehete Ajalugu</string>
+    <string name="action_show_operationTypes">Tehtetüübid</string>
+    <string name="action_show_statistics">Päevastatistika</string>
+    <string name="action_delete_all">Nulli andmebaas</string>
+    <string name="action_refresh_all">Refresh</string>
+
+</resources>
